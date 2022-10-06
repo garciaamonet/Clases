@@ -1,0 +1,20 @@
+
+## Etapa 2 Especificaciones 
+Entrada
+  -Estudiante:Nombre, apellidos, grupo, carrera 
+  -Asignatura: calificaciones, nombre de la asignatura 
+Proceso:
+  -Calcular el promedio de las calificaciones finales 
+  -promedio = sumaDeCalificaciones/ totalDeCalificaciones
+Salida:
+  -Resumen de los datos del estudiante con su promedio 
+  
+  --------------------------------------------------------------
+  -Estudiante: JESSICA GARCIA GONZALEZ 
+  Grupo: 1A      Carrera: Ingenieria Informatica 
+  
+  Asignatura:                                CALIFICACIÓN 
+    FUNDAMENTOS DE PROGRAMACIÓN                   75
+    MATEMATICAS DISCRETAS                         85
+  -----------------------------------------------------------------
+  PROMEDIO                                        80
