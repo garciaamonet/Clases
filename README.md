@@ -30,4 +30,4 @@ Diagrama de la clase
 ![](https://github.com/garciaamonet/Clases/blob/main/T3A1.png)
 
 ##ETAPA 4 SOLUCIÓN DEL PROBLEMA
-![](https://github.com/garciaamonet/Clases/blob/da13374573f7939d9df49c87f4beeb61ff3c1dc3/T3A1.zip)
+![](https://github.com/garciaamonet/Clases/blob/main/T3A1.zip)
