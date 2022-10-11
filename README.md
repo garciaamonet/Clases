@@ -28,3 +28,6 @@ Salida:
 ## Etapa 3 Diseño de la solución
 Diagrama de la clase 
 ![](https://github.com/garciaamonet/Clases/blob/main/T3A1.png)
+
+##ETAPA 4 SOLUCIÓN DEL PROBLEMA
+![](T3A1.zip)
