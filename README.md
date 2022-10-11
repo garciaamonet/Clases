@@ -1,4 +1,4 @@
-##Etapa 1 Descripcion del problema
+## Etapa 1 Descripcion del problema
 Desarrolar una solución que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salón de clase. 
 Determinar y mostrar el proomedio de las calificaciones finales en un resumen con los datos de los estudiantes.
 
@@ -29,5 +29,5 @@ Salida:
 Diagrama de la clase 
 ![](https://github.com/garciaamonet/Clases/blob/main/T3A1.png)
 
-##ETAPA 4 SOLUCIÓN DEL PROBLEMA
-![](https://github.com/garciaamonet/Clases/blob/main/T3A1.zip)
+## ETAPA 4 SOLUCIÓN DEL PROBLEMA
+https://github.com/garciaamonet/Clases/blob/main/T3A1.zip?raw=true
